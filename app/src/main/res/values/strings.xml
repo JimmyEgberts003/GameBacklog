@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_add_game">Add Game</string>
+    <string name="title_edit_game">Edit Game</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_platform">Platform</string>
+    <string name="placeholder_notes">Notes</string>
+    <string-array name="game_statuses">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+</resources>
